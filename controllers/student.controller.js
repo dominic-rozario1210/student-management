@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 import Student from "../models/student.schema.js";
-import Mentor from "../models/mentor.Schema.js";
+import Mentor from "../models/mentor.schema.js";
 
 
 export const createStudent = async (req,res) =>{

@@ -1,5 +1,5 @@
 import mongoose from "mongoose"
-import Mentor from "../models/mentor.Schema.js";
+import Mentor from "../models/mentor.schema.js";
 import Student from "../models/student.schema.js";
 
 
